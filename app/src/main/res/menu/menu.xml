@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_tweet"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/tweet"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_purge"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:orderInCategory="100"
+        android:title="@string/purge"
+        app:showAsAction="ifRoom"></item>
+    <item
+        android:id="@+id/itemServiceStart"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="@string/titleServiceStart"></item>
+
+    <item
+        android:id="@+id/itemServiceStop"
+        android:icon="@android:drawable/ic_media_pause"
+        android:title="@string/titleServiceStop"></item>
+
+</menu>

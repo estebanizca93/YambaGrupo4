@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">YambaGrupo4</string>
+    <string name="title_status">Actulización de Estado</string>
+    <string name="button_tweet">Tweet</string>
+    <string name="hint_status">Por favor, introduce tu estado en 140 caracteres</string>
+    <string name="loading_title">Twitteando</string>
+    <string name="loading_text">Por favor, espere...</string>
+    <string name="tweet_ok">Tweet enviado correctamente</string>
+    <string name="tweet_fail">Error en el envío del tweet</string>
+    <string name="tweet_noconex">ERROR: No se pudo conectar con Twitter</string>
+    <string name="tweet_repeat">ERROR: El tweet está repetido</string>
+    <string name="summaryAccessToken">Acces Token</string>
+    <string name="titleAccessToken">Por favor, introduce tu Access Token</string>
+    <string name="summaryAccessTokenSecret">Acces Token Secret</string>
+    <string name="titleAccessTokenSecret">Por favor, introduce tu Access Token Secret</string>
+    <string name="action_settings">Configurar</string>
+    <string name="tweet">Tweetear</string>
+    <string name="purge">Borrar</string>
+    <string name="titleServiceStart">Arrancar Servicio</string>
+    <string name="titleServiceStop">Parar Servicio</string>
+</resources>

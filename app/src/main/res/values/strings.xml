@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">YambaGrupo4</string>
+    <string name="title_status">Status Update</string>
+    <string name="button_tweet">Tweet</string>
+    <string name="hint_status">Please enter your 140 character status</string>
+    <string name="loading_title">Posting</string>
+    <string name="loading_text">Please wait...</string>
+    <string name="tweet_ok">Tweet successfully submitted</string>
+    <string name="tweet_fail">Sending tweet failed</string>
+    <string name="tweet_noconex">ERROR: Could not connect to Twitter</string>
+    <string name="tweet_repeat">ERROR: The tweet is repeated</string>
+    <string name="titleServiceStart">Service Start</string>
+    <string name="titleServiceStop">Service Stop</string>
+</resources>
